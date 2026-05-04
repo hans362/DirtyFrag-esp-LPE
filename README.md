@@ -4,7 +4,7 @@
 
 Ubuntu 26.04 LTS with Linux kernel 7.0.0-15-generic
 
-https://github.com/user-attachments/assets/dc424d2e-8557-4db7-8b99-e65d7cdaedef
+https://github.com/user-attachments/assets/0054277b-0b0a-46af-9df5-95cabe780691
 
 ## Build and Run
 
