@@ -30,7 +30,7 @@ cc -O2 exp-passwd.c -o exp
 
 Floor: torvalds/linux cac2661c53f35cbe651bef9b07026a5a05ab8ce0 v4.11
 
-Ceiling: (none yet)
+Ceiling: torvalds/linux f4c50a4034e62ab75f1d5cdd191dd5f9c77fdff4
 
 Kernel versions between the floor and ceiling are affected. However, the privilege escalation **only works when user namespaces are enabled**, which is restricted by default in some distro versions (eg. Ubuntu 26.04 LTS with apparmor enabled).
 
